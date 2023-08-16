@@ -2,7 +2,7 @@
 
 This is the official repository and issue-tracker for Project Aloysius - an addon for the modpack Enigmatica 2: Expert for Minecraft 1.12.2
 
-[![Curse Forge](http://cf.way2muchnoise.eu/758273.svg)](https://minecraft.curseforge.com/projects/projectaloysius)
+[![Curse Forge](http://cf.way2muchnoise.eu/758273.svg)](https://www.curseforge.com/minecraft/modpacks/projectaloysius)
 
 <h2>Links</h2>
 
